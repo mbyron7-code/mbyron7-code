@@ -4,7 +4,7 @@
 
 #
 
-- 🌱 I’m currently learning **nodejs** <a href="https://github.com/mbyron7-code"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
+- 🌱 I’m currently learning **nodejs** 
 
 - 💬 Ask me about **RestAPIs, MATLAB, LAVIEW, PLC**
 
